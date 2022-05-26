@@ -1,0 +1,23 @@
+.products {
+  width: 100%;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form{
+  display: center;
+  border-radius: 5px;
+  width: 100%;
+  padding: 20px 0px 20px 50px;
+  outline: 0;
+  
+}
+form input{
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
